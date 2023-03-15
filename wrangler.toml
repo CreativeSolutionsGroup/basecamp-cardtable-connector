@@ -1,0 +1,6 @@
+name = "basecamp-cardtable"
+main = "src/index.ts"
+compatibility_date = "2023-03-10"
+kv_namespaces = [
+  { binding = "basecamp", id = "18647bc2d0e6417ba0ee107fb7c0416f", preview_id = "18647bc2d0e6417ba0ee107fb7c0416f" }
+]
